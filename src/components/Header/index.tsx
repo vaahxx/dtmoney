@@ -1,5 +1,4 @@
 import { Container, Content } from "./styles";
-
 const logoImg: string = require("../../assets/logo.svg").default;
 
 export function Header() {
